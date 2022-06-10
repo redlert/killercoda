@@ -1,6 +1,9 @@
 {
   "items": [
     { "path": "kubernetes-1node" },
+    { "path": "cka" },
+    { "path": "cka-01" },
+    { "path": "cka-02" },
     { "path": "kubernetes-2node-multi-step-verification" }
   ]
 }
