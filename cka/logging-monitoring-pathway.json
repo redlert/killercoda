@@ -1,0 +1,27 @@
+{
+    "title": "Logging/Monitoring",
+    "description": "Learn how to monitor and manage all cluster components, applications and application logs.",
+    "courses":
+    [
+        {
+			"course_id": "cluster-monitoring",
+			"title": "Cluster Monitoring",
+			"description": "Understand how to monitor all cluster components."
+        },
+        {
+			"course_id": "application-monitoring",
+			"title": "Application Monitoring",
+			"description": "Understand how to monitor applications."
+        },
+        {
+			"course_id": "cluster-component-logs",
+			"title": "Cluster Component Logs",
+			"description": "Manage cluster component logs."
+        },
+        {
+			"course_id": "application-logs",
+			"title": "Application Logs",
+			"description": "Manage application logs."
+		}
+    ]
+}

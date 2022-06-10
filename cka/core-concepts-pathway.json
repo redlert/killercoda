@@ -1,0 +1,22 @@
+{
+    "title": "Core Concepts",
+    "description": "Learn how to use the Kubernetes API, Services and other concepts.",
+    "courses":
+    [
+        {
+			"course_id": "kubernetes-api-primitives",
+			"title": "Kubernetes API Primitives",
+			"description": "Understand the Kubernetes API primitives."
+        },
+        {
+			"course_id": "kubernetes-cluster-architecture",
+			"title": "Kubernetes Cluster Architecture",
+			"description": "Understand the Kubernetes cluster architecture."
+		},
+        {
+			"course_id": "network-primitives",
+			"title": "Network Primitives",
+			"description": "Understand Services and other network primitives."
+		}
+    ]
+}

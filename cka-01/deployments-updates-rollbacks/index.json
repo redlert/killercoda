@@ -1,0 +1,24 @@
+{
+    "title": "Deployments, Rolling Updates and Rollbacks",
+    "description": "Understand deployments and how to perform rolling update and rollbacks.",
+    "difficulty": "beginner",
+    "time": "5-10 minutes",
+    "details": {
+        "steps": [
+            {"title": "Deploy an application.",    "text": "step1.md"},
+            {"title": "Perform a rolling update.", "text": "step2.md"},
+            {"title": "Perform a rollback.",       "text": "step3.md"}
+        ]
+    },
+    "environment": {
+        "hideintro": true,
+        "hidefinish": true,
+        "showdashboard": true,
+        "dashboard": "Dashboard",
+        "uilayout": "terminal-iframe"
+    },
+    "backend": {
+        "imageid": "kubernetes",
+        "port": 8080
+    }
+}
