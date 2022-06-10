@@ -1,0 +1,26 @@
+{
+    "title": "Kubernetes Cluster Design",
+    "description": "Design a Kubernetes Cluster.",
+    "difficulty": "beginner",
+    "time": "5-10 minutes",
+    "details": {
+        "assets": {"client": [
+		{"file": "daemonset.yml",             "target": "~/"},
+		{"file": "replicationcontroller.yml", "target": "~/"},
+		{"file": "replicaset.yml",            "target": "~/"}
+	]},
+        "steps": [
+            {"title": "The Primitives",          "text": "intro.md"},
+	    {"title": "ReplicationControllers.", "text": "step1.md"},
+            {"title": "ReplicaSets",             "text": "step2.md"},
+            {"title": "DaemonSets",              "text": "step3.md"}
+        ]
+    },
+    "environment": {
+        "hideintro": true,
+        "hidefinish": true,
+        "uilayout": "terminal",
+        "uimessage1": "Please wait for about 1 minute for the environment to fully load."
+    },
+    "backend": {"imageid": "kubernetes"}
+}

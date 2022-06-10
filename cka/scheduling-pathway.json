@@ -1,0 +1,37 @@
+{
+    "title": "Scheduling",
+    "description": "Learn how to schedule Pods.",
+    "courses":
+    [
+        {
+			"course_id": "label-selectors",
+			"title": "Label Selectors",
+			"description": "Use label selectors to schedule Pods."
+        },
+        {
+			"course_id": "daemonsets",
+			"title": "DaemonSets",
+			"description": "Understand the role of DaemonSets."
+        },
+        {
+			"course_id": "resource-limits",
+			"title": "Resource Limits",
+			"description": "Understand how resource limits can affect Pod scheduling."
+        },
+        {
+			"course_id": "multiple-schedulers",
+			"title": "Multiple Schedulers",
+			"description": "Understand how to run multiple schedulers and how to configure Pods to use them."
+        },
+        {
+			"course_id": "manual-pod-scheduling",
+			"title": "Manual Pod Scheduling",
+			"description": "Manually schedule a pod without a scheduler."
+        },
+        {
+			"course_id": "scheduler-events",
+			"title": "Scheduler Events",
+			"description": "Display scheduler events."
+		}
+    ]
+}

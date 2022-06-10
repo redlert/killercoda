@@ -1,0 +1,27 @@
+{
+    "title": "Troubleshooting",
+    "description": "Learn how to troubleshoot failure of an application, a control plane, a worker node and networking infrastructure.",
+    "courses":
+    [
+        {
+			"course_id": "application-failure",
+			"title": "Application Failure",
+			"description": "Troubleshoot application failure."
+        },
+        {
+			"course_id": "control-plane-failure",
+			"title": "Control Plane Failure",
+			"description": "Troubleshoot control plane failure."
+        },
+        {
+			"course_id": "worker-node-failure",
+			"title": "Worker Node Failure",
+			"description": "Troubleshoot worker node failure."
+        },
+        {
+			"course_id": "network-troubleshooting",
+			"title": "Network Troubleshooting",
+			"description": "Troubleshoot networking."
+		}
+    ]
+}
