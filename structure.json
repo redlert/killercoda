@@ -1,7 +1,6 @@
 {
   "items": [
-    { "path": "scenario2" },
-    { "path": "course1", "title": "Override title of course ONE" },
-    { "path": "course2" }
+    { "path": "kubernetes-1node" },
+    { "path": "kubernetes-2node-multi-step-verification" }
   ]
 }
